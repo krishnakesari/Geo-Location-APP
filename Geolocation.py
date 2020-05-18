@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Geolocation via Google Maps API by Barron Stone for Code Clinic: Python """
+
 import re
 import subprocess
 import requests
